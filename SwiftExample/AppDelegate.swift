@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  SwiftExample
-//
-//  Created by Belal Khan on 18/11/17.
-//  Copyright © 2017 Belal Khan. All rights reserved.
-//
 
 import UIKit
 
